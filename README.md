@@ -1,6 +1,6 @@
 # RePO
 
-This repository contains the code for the paper titled "RePO: ReLU-based Preference Optimization".
+This repository contains the code for the paper titled "RePO: Understanding Preference Learning Through ReLU-Based Optimization".
 
 <img src="./teaser2.png" width="1000px"></img>
 
